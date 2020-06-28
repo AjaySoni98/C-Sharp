@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MultiDim&JaggedArray/1.0.0": {
+        "runtime": {
+          "MultiDim&JaggedArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MultiDim&JaggedArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

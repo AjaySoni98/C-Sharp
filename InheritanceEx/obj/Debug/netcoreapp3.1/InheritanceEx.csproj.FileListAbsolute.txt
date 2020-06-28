@@ -1,0 +1,13 @@
+C:\Users\kanha\Documents\InheritanceEx\bin\Debug\netcoreapp3.1\InheritanceEx.exe
+C:\Users\kanha\Documents\InheritanceEx\bin\Debug\netcoreapp3.1\InheritanceEx.deps.json
+C:\Users\kanha\Documents\InheritanceEx\bin\Debug\netcoreapp3.1\InheritanceEx.runtimeconfig.json
+C:\Users\kanha\Documents\InheritanceEx\bin\Debug\netcoreapp3.1\InheritanceEx.runtimeconfig.dev.json
+C:\Users\kanha\Documents\InheritanceEx\bin\Debug\netcoreapp3.1\InheritanceEx.dll
+C:\Users\kanha\Documents\InheritanceEx\bin\Debug\netcoreapp3.1\InheritanceEx.pdb
+C:\Users\kanha\Documents\InheritanceEx\obj\Debug\netcoreapp3.1\InheritanceEx.csprojAssemblyReference.cache
+C:\Users\kanha\Documents\InheritanceEx\obj\Debug\netcoreapp3.1\InheritanceEx.AssemblyInfoInputs.cache
+C:\Users\kanha\Documents\InheritanceEx\obj\Debug\netcoreapp3.1\InheritanceEx.AssemblyInfo.cs
+C:\Users\kanha\Documents\InheritanceEx\obj\Debug\netcoreapp3.1\InheritanceEx.csproj.CoreCompileInputs.cache
+C:\Users\kanha\Documents\InheritanceEx\obj\Debug\netcoreapp3.1\InheritanceEx.dll
+C:\Users\kanha\Documents\InheritanceEx\obj\Debug\netcoreapp3.1\InheritanceEx.pdb
+C:\Users\kanha\Documents\InheritanceEx\obj\Debug\netcoreapp3.1\InheritanceEx.genruntimeconfig.cache
