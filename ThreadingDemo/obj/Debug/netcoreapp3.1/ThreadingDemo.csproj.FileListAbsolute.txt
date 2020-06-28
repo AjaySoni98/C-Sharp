@@ -1,0 +1,13 @@
+C:\Users\kanha\Documents\ThreadingDemo\bin\Debug\netcoreapp3.1\ThreadingDemo.exe
+C:\Users\kanha\Documents\ThreadingDemo\bin\Debug\netcoreapp3.1\ThreadingDemo.deps.json
+C:\Users\kanha\Documents\ThreadingDemo\bin\Debug\netcoreapp3.1\ThreadingDemo.runtimeconfig.json
+C:\Users\kanha\Documents\ThreadingDemo\bin\Debug\netcoreapp3.1\ThreadingDemo.runtimeconfig.dev.json
+C:\Users\kanha\Documents\ThreadingDemo\bin\Debug\netcoreapp3.1\ThreadingDemo.dll
+C:\Users\kanha\Documents\ThreadingDemo\bin\Debug\netcoreapp3.1\ThreadingDemo.pdb
+C:\Users\kanha\Documents\ThreadingDemo\obj\Debug\netcoreapp3.1\ThreadingDemo.csprojAssemblyReference.cache
+C:\Users\kanha\Documents\ThreadingDemo\obj\Debug\netcoreapp3.1\ThreadingDemo.AssemblyInfoInputs.cache
+C:\Users\kanha\Documents\ThreadingDemo\obj\Debug\netcoreapp3.1\ThreadingDemo.AssemblyInfo.cs
+C:\Users\kanha\Documents\ThreadingDemo\obj\Debug\netcoreapp3.1\ThreadingDemo.csproj.CoreCompileInputs.cache
+C:\Users\kanha\Documents\ThreadingDemo\obj\Debug\netcoreapp3.1\ThreadingDemo.dll
+C:\Users\kanha\Documents\ThreadingDemo\obj\Debug\netcoreapp3.1\ThreadingDemo.pdb
+C:\Users\kanha\Documents\ThreadingDemo\obj\Debug\netcoreapp3.1\ThreadingDemo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\kanha\Documents\LinqP\bin\Debug\netcoreapp3.1\LinqP.exe
+C:\Users\kanha\Documents\LinqP\bin\Debug\netcoreapp3.1\LinqP.deps.json
+C:\Users\kanha\Documents\LinqP\bin\Debug\netcoreapp3.1\LinqP.runtimeconfig.json
+C:\Users\kanha\Documents\LinqP\bin\Debug\netcoreapp3.1\LinqP.runtimeconfig.dev.json
+C:\Users\kanha\Documents\LinqP\bin\Debug\netcoreapp3.1\LinqP.dll
+C:\Users\kanha\Documents\LinqP\bin\Debug\netcoreapp3.1\LinqP.pdb
+C:\Users\kanha\Documents\LinqP\obj\Debug\netcoreapp3.1\LinqP.csprojAssemblyReference.cache
+C:\Users\kanha\Documents\LinqP\obj\Debug\netcoreapp3.1\LinqP.AssemblyInfoInputs.cache
+C:\Users\kanha\Documents\LinqP\obj\Debug\netcoreapp3.1\LinqP.AssemblyInfo.cs
+C:\Users\kanha\Documents\LinqP\obj\Debug\netcoreapp3.1\LinqP.csproj.CoreCompileInputs.cache
+C:\Users\kanha\Documents\LinqP\obj\Debug\netcoreapp3.1\LinqP.dll
+C:\Users\kanha\Documents\LinqP\obj\Debug\netcoreapp3.1\LinqP.pdb
+C:\Users\kanha\Documents\LinqP\obj\Debug\netcoreapp3.1\LinqP.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\kanha\Documents\C# Case Study -Requirement 2\bin\Debug\netcoreapp3.1\C# Case Study -Requirement 2.exe
+C:\Users\kanha\Documents\C# Case Study -Requirement 2\bin\Debug\netcoreapp3.1\C# Case Study -Requirement 2.deps.json
+C:\Users\kanha\Documents\C# Case Study -Requirement 2\bin\Debug\netcoreapp3.1\C# Case Study -Requirement 2.runtimeconfig.json
+C:\Users\kanha\Documents\C# Case Study -Requirement 2\bin\Debug\netcoreapp3.1\C# Case Study -Requirement 2.runtimeconfig.dev.json
+C:\Users\kanha\Documents\C# Case Study -Requirement 2\bin\Debug\netcoreapp3.1\C# Case Study -Requirement 2.dll
+C:\Users\kanha\Documents\C# Case Study -Requirement 2\bin\Debug\netcoreapp3.1\C# Case Study -Requirement 2.pdb
+C:\Users\kanha\Documents\C# Case Study -Requirement 2\obj\Debug\netcoreapp3.1\C# Case Study -Requirement 2.csprojAssemblyReference.cache
+C:\Users\kanha\Documents\C# Case Study -Requirement 2\obj\Debug\netcoreapp3.1\C# Case Study -Requirement 2.AssemblyInfoInputs.cache
+C:\Users\kanha\Documents\C# Case Study -Requirement 2\obj\Debug\netcoreapp3.1\C# Case Study -Requirement 2.AssemblyInfo.cs
+C:\Users\kanha\Documents\C# Case Study -Requirement 2\obj\Debug\netcoreapp3.1\C# Case Study -Requirement 2.csproj.CoreCompileInputs.cache
+C:\Users\kanha\Documents\C# Case Study -Requirement 2\obj\Debug\netcoreapp3.1\C# Case Study -Requirement 2.dll
+C:\Users\kanha\Documents\C# Case Study -Requirement 2\obj\Debug\netcoreapp3.1\C# Case Study -Requirement 2.pdb
+C:\Users\kanha\Documents\C# Case Study -Requirement 2\obj\Debug\netcoreapp3.1\C# Case Study -Requirement 2.genruntimeconfig.cache
