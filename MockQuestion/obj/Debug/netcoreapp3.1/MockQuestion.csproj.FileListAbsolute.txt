@@ -1,0 +1,13 @@
+C:\Users\kanha\Documents\MockQuestion\bin\Debug\netcoreapp3.1\MockQuestion.exe
+C:\Users\kanha\Documents\MockQuestion\bin\Debug\netcoreapp3.1\MockQuestion.deps.json
+C:\Users\kanha\Documents\MockQuestion\bin\Debug\netcoreapp3.1\MockQuestion.runtimeconfig.json
+C:\Users\kanha\Documents\MockQuestion\bin\Debug\netcoreapp3.1\MockQuestion.runtimeconfig.dev.json
+C:\Users\kanha\Documents\MockQuestion\bin\Debug\netcoreapp3.1\MockQuestion.dll
+C:\Users\kanha\Documents\MockQuestion\bin\Debug\netcoreapp3.1\MockQuestion.pdb
+C:\Users\kanha\Documents\MockQuestion\obj\Debug\netcoreapp3.1\MockQuestion.csprojAssemblyReference.cache
+C:\Users\kanha\Documents\MockQuestion\obj\Debug\netcoreapp3.1\MockQuestion.AssemblyInfoInputs.cache
+C:\Users\kanha\Documents\MockQuestion\obj\Debug\netcoreapp3.1\MockQuestion.AssemblyInfo.cs
+C:\Users\kanha\Documents\MockQuestion\obj\Debug\netcoreapp3.1\MockQuestion.csproj.CoreCompileInputs.cache
+C:\Users\kanha\Documents\MockQuestion\obj\Debug\netcoreapp3.1\MockQuestion.dll
+C:\Users\kanha\Documents\MockQuestion\obj\Debug\netcoreapp3.1\MockQuestion.pdb
+C:\Users\kanha\Documents\MockQuestion\obj\Debug\netcoreapp3.1\MockQuestion.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\kanha\Documents\GenericInterfaceDemo\bin\Debug\netcoreapp3.1\GenericInterfaceDemo.exe
+C:\Users\kanha\Documents\GenericInterfaceDemo\bin\Debug\netcoreapp3.1\GenericInterfaceDemo.deps.json
+C:\Users\kanha\Documents\GenericInterfaceDemo\bin\Debug\netcoreapp3.1\GenericInterfaceDemo.runtimeconfig.json
+C:\Users\kanha\Documents\GenericInterfaceDemo\bin\Debug\netcoreapp3.1\GenericInterfaceDemo.runtimeconfig.dev.json
+C:\Users\kanha\Documents\GenericInterfaceDemo\bin\Debug\netcoreapp3.1\GenericInterfaceDemo.dll
+C:\Users\kanha\Documents\GenericInterfaceDemo\bin\Debug\netcoreapp3.1\GenericInterfaceDemo.pdb
+C:\Users\kanha\Documents\GenericInterfaceDemo\obj\Debug\netcoreapp3.1\GenericInterfaceDemo.csprojAssemblyReference.cache
+C:\Users\kanha\Documents\GenericInterfaceDemo\obj\Debug\netcoreapp3.1\GenericInterfaceDemo.AssemblyInfoInputs.cache
+C:\Users\kanha\Documents\GenericInterfaceDemo\obj\Debug\netcoreapp3.1\GenericInterfaceDemo.AssemblyInfo.cs
+C:\Users\kanha\Documents\GenericInterfaceDemo\obj\Debug\netcoreapp3.1\GenericInterfaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\kanha\Documents\GenericInterfaceDemo\obj\Debug\netcoreapp3.1\GenericInterfaceDemo.dll
+C:\Users\kanha\Documents\GenericInterfaceDemo\obj\Debug\netcoreapp3.1\GenericInterfaceDemo.pdb
+C:\Users\kanha\Documents\GenericInterfaceDemo\obj\Debug\netcoreapp3.1\GenericInterfaceDemo.genruntimeconfig.cache
