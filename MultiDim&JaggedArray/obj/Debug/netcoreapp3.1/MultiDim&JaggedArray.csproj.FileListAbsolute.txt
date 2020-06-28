@@ -1,0 +1,13 @@
+C:\Users\kanha\Documents\MultiDim&JaggedArray\bin\Debug\netcoreapp3.1\MultiDim&JaggedArray.exe
+C:\Users\kanha\Documents\MultiDim&JaggedArray\bin\Debug\netcoreapp3.1\MultiDim&JaggedArray.deps.json
+C:\Users\kanha\Documents\MultiDim&JaggedArray\bin\Debug\netcoreapp3.1\MultiDim&JaggedArray.runtimeconfig.json
+C:\Users\kanha\Documents\MultiDim&JaggedArray\bin\Debug\netcoreapp3.1\MultiDim&JaggedArray.runtimeconfig.dev.json
+C:\Users\kanha\Documents\MultiDim&JaggedArray\bin\Debug\netcoreapp3.1\MultiDim&JaggedArray.dll
+C:\Users\kanha\Documents\MultiDim&JaggedArray\bin\Debug\netcoreapp3.1\MultiDim&JaggedArray.pdb
+C:\Users\kanha\Documents\MultiDim&JaggedArray\obj\Debug\netcoreapp3.1\MultiDim&JaggedArray.csprojAssemblyReference.cache
+C:\Users\kanha\Documents\MultiDim&JaggedArray\obj\Debug\netcoreapp3.1\MultiDim&JaggedArray.AssemblyInfoInputs.cache
+C:\Users\kanha\Documents\MultiDim&JaggedArray\obj\Debug\netcoreapp3.1\MultiDim&JaggedArray.AssemblyInfo.cs
+C:\Users\kanha\Documents\MultiDim&JaggedArray\obj\Debug\netcoreapp3.1\MultiDim&JaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\kanha\Documents\MultiDim&JaggedArray\obj\Debug\netcoreapp3.1\MultiDim&JaggedArray.dll
+C:\Users\kanha\Documents\MultiDim&JaggedArray\obj\Debug\netcoreapp3.1\MultiDim&JaggedArray.pdb
+C:\Users\kanha\Documents\MultiDim&JaggedArray\obj\Debug\netcoreapp3.1\MultiDim&JaggedArray.genruntimeconfig.cache

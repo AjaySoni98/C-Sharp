@@ -1,0 +1,13 @@
+C:\Users\kanha\Documents\Numeric&StringIndexers\bin\Debug\netcoreapp3.1\Numeric&StringIndexers.exe
+C:\Users\kanha\Documents\Numeric&StringIndexers\bin\Debug\netcoreapp3.1\Numeric&StringIndexers.deps.json
+C:\Users\kanha\Documents\Numeric&StringIndexers\bin\Debug\netcoreapp3.1\Numeric&StringIndexers.runtimeconfig.json
+C:\Users\kanha\Documents\Numeric&StringIndexers\bin\Debug\netcoreapp3.1\Numeric&StringIndexers.runtimeconfig.dev.json
+C:\Users\kanha\Documents\Numeric&StringIndexers\bin\Debug\netcoreapp3.1\Numeric&StringIndexers.dll
+C:\Users\kanha\Documents\Numeric&StringIndexers\bin\Debug\netcoreapp3.1\Numeric&StringIndexers.pdb
+C:\Users\kanha\Documents\Numeric&StringIndexers\obj\Debug\netcoreapp3.1\Numeric&StringIndexers.csprojAssemblyReference.cache
+C:\Users\kanha\Documents\Numeric&StringIndexers\obj\Debug\netcoreapp3.1\Numeric&StringIndexers.AssemblyInfoInputs.cache
+C:\Users\kanha\Documents\Numeric&StringIndexers\obj\Debug\netcoreapp3.1\Numeric&StringIndexers.AssemblyInfo.cs
+C:\Users\kanha\Documents\Numeric&StringIndexers\obj\Debug\netcoreapp3.1\Numeric&StringIndexers.csproj.CoreCompileInputs.cache
+C:\Users\kanha\Documents\Numeric&StringIndexers\obj\Debug\netcoreapp3.1\Numeric&StringIndexers.dll
+C:\Users\kanha\Documents\Numeric&StringIndexers\obj\Debug\netcoreapp3.1\Numeric&StringIndexers.pdb
+C:\Users\kanha\Documents\Numeric&StringIndexers\obj\Debug\netcoreapp3.1\Numeric&StringIndexers.genruntimeconfig.cache

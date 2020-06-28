@@ -1,0 +1,13 @@
+C:\Users\kanha\Documents\ArrayListDemo\bin\Debug\netcoreapp3.1\ArrayListDemo.exe
+C:\Users\kanha\Documents\ArrayListDemo\bin\Debug\netcoreapp3.1\ArrayListDemo.deps.json
+C:\Users\kanha\Documents\ArrayListDemo\bin\Debug\netcoreapp3.1\ArrayListDemo.runtimeconfig.json
+C:\Users\kanha\Documents\ArrayListDemo\bin\Debug\netcoreapp3.1\ArrayListDemo.runtimeconfig.dev.json
+C:\Users\kanha\Documents\ArrayListDemo\bin\Debug\netcoreapp3.1\ArrayListDemo.dll
+C:\Users\kanha\Documents\ArrayListDemo\bin\Debug\netcoreapp3.1\ArrayListDemo.pdb
+C:\Users\kanha\Documents\ArrayListDemo\obj\Debug\netcoreapp3.1\ArrayListDemo.csprojAssemblyReference.cache
+C:\Users\kanha\Documents\ArrayListDemo\obj\Debug\netcoreapp3.1\ArrayListDemo.AssemblyInfoInputs.cache
+C:\Users\kanha\Documents\ArrayListDemo\obj\Debug\netcoreapp3.1\ArrayListDemo.AssemblyInfo.cs
+C:\Users\kanha\Documents\ArrayListDemo\obj\Debug\netcoreapp3.1\ArrayListDemo.csproj.CoreCompileInputs.cache
+C:\Users\kanha\Documents\ArrayListDemo\obj\Debug\netcoreapp3.1\ArrayListDemo.dll
+C:\Users\kanha\Documents\ArrayListDemo\obj\Debug\netcoreapp3.1\ArrayListDemo.pdb
+C:\Users\kanha\Documents\ArrayListDemo\obj\Debug\netcoreapp3.1\ArrayListDemo.genruntimeconfig.cache
